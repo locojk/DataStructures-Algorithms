@@ -7,6 +7,6 @@ A4: A program to implement the two-finger walking algorithm, and small extension
 
 A5: Using Huffman coding to encode and decode text.
 
-A6: Including (1) Using hashmap with the username as key and the password as value to create a login system
+A6: Including (1) Using hashmap with the username as key and the password as value to create a login system.
 
               (2) Using Topological Sorting to list the vertices with increasing values of topnum.
