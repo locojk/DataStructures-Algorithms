@@ -1,5 +1,5 @@
 # Data Structures & Algorithms
-Practice for data structures & algorithms.
+Practice for data structures & algorithms, including course work and non-course woek
 
 A3: A program to perform data analytics on NHL (National Hockey League) statistics data and derive trends and other descriptive stats. The nhlstats.txt file provided contains stats for a group of players over the course of one season of play.
 
